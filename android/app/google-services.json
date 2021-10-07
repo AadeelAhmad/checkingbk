@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903238828703",
+    "project_id": "checkingbk-c9411",
+    "storage_bucket": "checkingbk-c9411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903238828703:android:a17e937b46aa7a02ef98aa",
+        "android_client_info": {
+          "package_name": "com.example.checkingbk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903238828703-o42jk2oai229vo5bhm5av28882k60ac0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzf04SAcEkSjHz1NIIY78ROpmaukbBt-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903238828703-o42jk2oai229vo5bhm5av28882k60ac0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
